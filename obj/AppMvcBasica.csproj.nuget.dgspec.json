@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PauloMau-Pessoal\\Filho\\AppMvcBasica\\AppMvcBasica.csproj": {}
+    "C:\\PauloMau-Pessoal\\Filho\\ADO\\AppMvcBasica\\AppMvcBasica.csproj": {}
   },
   "projects": {
-    "C:\\PauloMau-Pessoal\\Filho\\AppMvcBasica\\AppMvcBasica.csproj": {
+    "C:\\PauloMau-Pessoal\\Filho\\ADO\\AppMvcBasica\\AppMvcBasica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PauloMau-Pessoal\\Filho\\AppMvcBasica\\AppMvcBasica.csproj",
+        "projectUniqueName": "C:\\PauloMau-Pessoal\\Filho\\ADO\\AppMvcBasica\\AppMvcBasica.csproj",
         "projectName": "AppMvcBasica",
-        "projectPath": "C:\\PauloMau-Pessoal\\Filho\\AppMvcBasica\\AppMvcBasica.csproj",
+        "projectPath": "C:\\PauloMau-Pessoal\\Filho\\ADO\\AppMvcBasica\\AppMvcBasica.csproj",
         "packagesPath": "C:\\Users\\pmmello\\.nuget\\packages\\",
-        "outputPath": "C:\\PauloMau-Pessoal\\Filho\\AppMvcBasica\\obj\\",
+        "outputPath": "C:\\PauloMau-Pessoal\\Filho\\ADO\\AppMvcBasica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmmello\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,6 +60,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
             }
           },
           "imports": [
